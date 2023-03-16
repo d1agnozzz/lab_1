@@ -1,0 +1,10 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "cSpell.words": [
+        "ndarray",
+        "randn"
+    ],
+    "python.formatting.provider": "autopep8",
+    "python.analysis.typeCheckingMode": "basic"
+}
